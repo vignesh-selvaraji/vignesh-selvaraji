@@ -22,5 +22,7 @@
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="37" height="37"/> </a>
 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> </a>
 </p>
 
